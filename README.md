@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - I am actively developing my skills in Cybersecurity.
-- I am currently studying Cloud Computing (https://moodle.uclouvain.be/enrol/index.php?id=4198).
+- I am currently studying Cloud Computing.
 
 <!--
 **sazmar18/sazmar18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
